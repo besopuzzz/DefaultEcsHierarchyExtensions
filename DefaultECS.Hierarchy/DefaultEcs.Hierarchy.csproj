@@ -8,7 +8,7 @@
 		<Title>Hirarchy for DefaultEcs</Title>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Description>Неофициальный пакет расширения для библиотеки DefaultEcs</Description>
-		<version>1.0.1</version>
+		<version>1.0.2</version>
 		<authors>Vadim Baryshnikov</authors>
 		<dependencies>
 			<dependency id="DefaultEcs" version="0.17.2" />
